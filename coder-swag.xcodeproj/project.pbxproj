@@ -11,6 +11,7 @@
 		F42158371FF0355C00C17659 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42158361FF0355C00C17659 /* Category.swift */; };
 		F421583A1FF038C400C17659 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F42158391FF038C400C17659 /* DataService.swift */; };
 		F421583C1FF0503600C17659 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F421583B1FF0503600C17659 /* ProductCell.swift */; };
+		F421583E1FF0551C00C17659 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = F421583D1FF0551C00C17659 /* Product.swift */; };
 		F4AE094D1FEF90DC00D9AB7E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE094C1FEF90DC00D9AB7E /* AppDelegate.swift */; };
 		F4AE094F1FEF90DC00D9AB7E /* CategoriesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4AE094E1FEF90DC00D9AB7E /* CategoriesVC.swift */; };
 		F4AE09521FEF90DC00D9AB7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F4AE09501FEF90DC00D9AB7E /* Main.storyboard */; };
@@ -23,6 +24,7 @@
 		F42158361FF0355C00C17659 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		F42158391FF038C400C17659 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		F421583B1FF0503600C17659 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
+		F421583D1FF0551C00C17659 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		F4AE09491FEF90DC00D9AB7E /* coder-swag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "coder-swag.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4AE094C1FEF90DC00D9AB7E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F4AE094E1FEF90DC00D9AB7E /* CategoriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoriesVC.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				F42158361FF0355C00C17659 /* Category.swift */,
+				F421583D1FF0551C00C17659 /* Product.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				F421583C1FF0503600C17659 /* ProductCell.swift in Sources */,
 				F42158371FF0355C00C17659 /* Category.swift in Sources */,
 				F421583A1FF038C400C17659 /* DataService.swift in Sources */,
+				F421583E1FF0551C00C17659 /* Product.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
